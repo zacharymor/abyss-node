@@ -1,0 +1,22 @@
+[
+  {
+    "username": "admin",
+    "password": "$2b$10$unOWKMXRCkFNy38CrTZBNOQD/CXA9T7fKfRZS2KfrU69V6sD1v1T2",
+    "isAdmin": true
+  },
+  {
+    "username": "z",
+    "password": "$2b$10$67McGbEdz.L2qPkR9SCeDOZiTlTrRWZvzpbxf/OPbvnOlm6/f2sdu",
+    "isAdmin": false
+  },
+  {
+    "username": "john",
+    "password": "$2b$10$addOF3Gg19mZx2xiqDvp0uiBqaMbrd9/TKMEk8Zbnujuv8pzv8b2q",
+    "isAdmin": false
+  },
+  {
+    "username": "ff",
+    "password": "$2b$10$xTqXJVVr0sRT1a2Ula1qEOwuAybI51nvsaHYUcL9VzOJ738jV9Lcm",
+    "isAdmin": false
+  }
+]
